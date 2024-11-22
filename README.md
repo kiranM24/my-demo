@@ -2,4 +2,4 @@
 This is a demo Git Repository.
 
 
-Author - Kiran M
+Author - Kiran Kinny
